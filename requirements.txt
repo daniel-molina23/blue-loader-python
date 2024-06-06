@@ -2,6 +2,7 @@ certifi==2021.10.8
 chardet==4.0.0
 Cython==0.29.21
 ECPy==1.2.5
+ecpy==1.2.5
 future==1.0.0
 hidapi==0.9.0.post3
 idna==2.10
@@ -16,4 +17,3 @@ requests==2.27.1
 six==1.16.0
 urllib3==1.26.18
 websocket-client==0.59.0
-ecpy==1.2.5
