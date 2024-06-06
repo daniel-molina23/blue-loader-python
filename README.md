@@ -88,4 +88,4 @@ Finally, generate the documentation:
 (cd doc/ && make html)
 ```
 
-The documentation will be generated into the `doc/build/` directory.
+The documentation will be generated into the `doc/build/` directory. 
