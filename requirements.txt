@@ -16,3 +16,4 @@ requests==2.27.1
 six==1.16.0
 urllib3==1.26.18
 websocket-client==0.59.0
+ecpy==1.2.5
